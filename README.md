@@ -7,3 +7,4 @@
 * Under the hood of JavaScript Engine (memory heap and stack in v8)
 * Garbage Collector in JavaScript
 * Memory Leaks in JavaScript (event listeners, setInterval and global variables etc)
+* What is event propagation in Javascript?
